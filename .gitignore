@@ -1,0 +1,6 @@
+.env
+venv/
+charts/
+__pycache__/
+shop.db
+results_*.json
